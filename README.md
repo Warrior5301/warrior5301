@@ -7,7 +7,7 @@
 ---
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" width="500">
+<img src="https://raw.githubusercontent.com/Warrior5301/Warrior5301/main/assets/gif1.gif" width="500">
 <br><br>
 </div>
 
@@ -23,7 +23,7 @@
 - 🧑‍💻 Into **AI/ML + Web Development**  
 - 🔮 Always building, always learning.  
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="500">
+<img src="https://raw.githubusercontent.com/Warrior5301/Warrior5301/main/assets/gif2.gif" width="500">
 
 ---
 ### 🚀 Tech Arsenal  

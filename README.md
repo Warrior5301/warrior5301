@@ -96,8 +96,16 @@ _"Code. Break. Create. Repeat."_
 <p align="center">
   <a href="https://www.linkedin.com/in/abhishek-verma-97b7343a1/"><img src="https://img.shields.io/badge/-LinkedIn-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="abhishekverma7003@gmail.com"><img src="https://img.shields.io/badge/-Email-000000?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  
+</p>
 
+---
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Warrior5301/Warrior5301/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Warrior5301/Warrior5301/output/github-contribution-grid-snake.svg">
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/Warrior5301/Warrior5301/output/github-contribution-grid-snake.svg">
+  </picture>
 </p>
 
 ---

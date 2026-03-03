@@ -18,7 +18,8 @@
 
 - 🎓 1st Year Btech in  **IIT Indore**  
 - 🛠️ Tech Stack → **MERN**, **C++**, **Java**, **Python**, **MySQL**, **NextJS**
-- 🕶️ Member of **Cybernix (Official Tech Club)**  
+- 🕶️ Volunteer of **Cynaptics (Official AI&ML Club)**
+- 🕶️ Volunteer of **GDG WebDev Domain (Official Tech Club)** 
 - 🧑‍💻 Into **AI/ML + Web Development**  
 - 🔮 Always building, always learning.  
 

@@ -1,7 +1,7 @@
 <!-- Header -->
 <h1 align="center">⚡ Abhishek Verma ⚡</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&pause=1000&color=36BCF7FF&background=FFFFFF00&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!+%F0%9F%91%8B;Full+Stack+MERN+Developer+%F0%9F%9A%80;AI+%26+ML+Enthusiast+%F0%9F%92%BB;DSA+in+Java+%F0%9F%93%9A;Cynaptics+Club+Volunteer+%E2%9C%A8;Let's+Connect+and+Code+Together!+%F0%9F%A4%9D" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&pause=1000&color=36BCF7FF&background=FFFFFF00&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!+%F0%9F%91%8B;Full+Stack+MERN+Developer+%F0%9F%9A%80;AI+%26+ML+Enthusiast+%F0%9F%92%BB;DSA+in+Java+%F0%9F%93%9A;Cynaptics+Club+Volunteer+%E2%9C%A8;GDG+WebDev+Volunteer+%E2%9C%A8;Let%27s+Connect+and+Code+Together!+%F0%9F%A4%9D" alt="Typing SVG" />
 </p>
 
 ---

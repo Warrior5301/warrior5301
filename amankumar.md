@@ -1,5 +1,5 @@
 <!-- Header -->
-<h1 align="center">⚡ Aman Kumar ⚡</h1>
+<h1 align="center">⚡ Abhishek Verma ⚡</h1>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&pause=1000&color=36BCF7FF&background=FFFFFF00&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!+%F0%9F%91%8B;Full+Stack+MERN+Developer+%F0%9F%9A%80;AI+%26+ML+Enthusiast+%F0%9F%92%BB;DSA+in+Java+%F0%9F%93%9A;Cybernix+Tech+Club+Member+%E2%9C%A8;Let's+Connect+and+Code+Together!+%F0%9F%A4%9D" alt="Typing SVG" />
 </p>
@@ -16,8 +16,8 @@
 ### 🖤 About Me  
 
 
-- 🎓 2nd Year Btech in IT@ **Netaji Subhash Engineering College**  
-- 🛠️ Tech Stack → **MERN**, **C**, **Java**, **Python**, **MySQL**  
+- 🎓 1st Year Btech in  **IIT Indore**  
+- 🛠️ Tech Stack → **MERN**, **C++**, **Java**, **Python**, **MySQL**, **NextJS**
 - 🕶️ Member of **Cybernix (Official Tech Club)**  
 - 🧑‍💻 Into **AI/ML + Web Development**  
 - 🔮 Always building, always learning.  
@@ -75,9 +75,9 @@
 
 ### 📊 GitHub Analytics  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amananshukumar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000&title_color=8A2BE2&icon_color=8A2BE2" height="160px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=warrior5301&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000&title_color=8A2BE2&icon_color=8A2BE2" height="160px"/>
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=amananshukumar&theme=tokyonight&hide_border=true&background=000000&ring=8A2BE2&currStreakLabel=8A2BE2" height="160px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=warrior5301&theme=tokyonight&hide_border=true&background=000000&ring=8A2BE2&currStreakLabel=8A2BE2" height="160px"/>
 </p>  
 
 

@@ -93,8 +93,8 @@ _"Code. Break. Create. Repeat."_
 
 ⚡ **Let’s Connect!**  
 <p align="center">
-  <a href="https://www.linkedin.com/in/aman-kumar-039677331/"><img src="https://img.shields.io/badge/-LinkedIn-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="amananshukumarpurnea@gmail.com"><img src="https://img.shields.io/badge/-Email-000000?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/abhishek-verma-97b7343a1/"><img src="https://img.shields.io/badge/-LinkedIn-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="abhishekverma7003@gmail.com"><img src="https://img.shields.io/badge/-Email-000000?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   
 
 </p>

@@ -16,7 +16,7 @@
 ### 🖤 About Me  
 
 
-- 🎓 1st Year Btech in  **IIT Indore**  
+- 🎓 2nd Year Btech in  **IIT Indore**  
 - 🛠️ Tech Stack → **MERN**, **C++**, **Java**, **Python**, **MySQL**, **NextJS**
 - 🕶️ Member of **Cynaptics (Official AI&ML Club)**
 - 🕶️ Volunteer of **GDG WebDev Domain (Official Tech Club)** 
